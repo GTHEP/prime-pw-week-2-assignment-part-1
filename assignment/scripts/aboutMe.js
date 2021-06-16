@@ -96,5 +96,4 @@ switch(pets >= friendsPets) {
 }
 
 // 18 -- Rewrite question 13 with a `ternary` operator. You'll need to do research!
-let ternary = (pets >= friendsPets ? mostPets = pets : mostPets = friendsPets);
-console.log(ternary);
+console.log(adventurous === true ? "Adventures are great!" : "How about we stay home?");
